@@ -1,0 +1,44 @@
+{
+  "level 3": {
+    "mean_wage": 14644.73096958855,
+    "median_wage": 13312.0,
+    "mode_wage": 13312.0,
+    "highest_wage": 34000.0,
+    "lowest_wage": 9.0
+  },
+  "level 4": {
+    "mean_wage": 21423.222769230768,
+    "median_wage": 22005.5,
+    "mode_wage": 29000.0,
+    "highest_wage": 29897.68,
+    "lowest_wage": 6500.0
+  },
+  "level 6": {
+    "mean_wage": 21802.805471698113,
+    "median_wage": 21392.5,
+    "mode_wage": 20000.0,
+    "highest_wage": 36775.0,
+    "lowest_wage": 12313.6
+  },
+  "level 2": {
+    "mean_wage": 14498.01686657682,
+    "median_wage": 13312.0,
+    "mode_wage": 13312.0,
+    "highest_wage": 31500.0,
+    "lowest_wage": 10.85
+  },
+  "level 7": {
+    "mean_wage": 24615.969696969696,
+    "median_wage": 24000.0,
+    "mode_wage": 23000.0,
+    "highest_wage": 32000.0,
+    "lowest_wage": 12480.0
+  },
+  "level 5": {
+    "mean_wage": 25452.956043956045,
+    "median_wage": 25200.0,
+    "mode_wage": 33100.0,
+    "highest_wage": 42000.0,
+    "lowest_wage": 11648.0
+  }
+}
